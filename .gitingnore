@@ -1,0 +1,52 @@
+# Proteger el repositorio del sistema operativo y los archivos del IDE
+
+# Archivos de configuración de usuario y solución
+*.suo
+*.user
+*.bak
+*.scc
+*.vspscc
+*.vssscc
+
+# Directorios de compilación
+[Dd]ebug/
+[Rr]elease/
+[Aa]rm64/
+[Aa]rm/
+[Xx]86/
+[Xx]64/
+bin/
+obj/
+
+# Paquetes de NuGet
+packages/
+*.nupkg
+
+# Archivos y directorios de Visual Studio
+.vs/
+.vs/
+*.opensdf
+*.sdf
+*.log
+
+# Archivos de cache y temporales
+*.[Cc]ache
+[Tt]humbs.db
+*.tmp
+*.temp
+
+# Archivos de usuario específicos de Visual Studio
+*.suo
+*.user
+*.tlog
+
+# Archivos de registro
+*.log
+*.pdb
+*.idb
+*.ipch
+
+# Archivos de IntelliSense y resúmenes de compilación
+*.intellisense.xml
+*.buildlog
+*.vsmd

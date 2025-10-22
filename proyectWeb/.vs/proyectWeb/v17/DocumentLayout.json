@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Tecnologia\\GIT and GITHUB\\Conexion GITHUB - Proyects\\C#\\Proyecto Web ASP.net - Formulario\\proyectWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3395FA40-0C93-4C9C-A3C0-654D58DCA1C4}|Modelo\\Modelo.csproj|h:\\tecnologia\\git and github\\conexion github - proyects\\c#\\proyecto web asp.net - formulario\\proyectweb\\modelo\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3395FA40-0C93-4C9C-A3C0-654D58DCA1C4}|Modelo\\Modelo.csproj|solutionrelative:modelo\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3395FA40-0C93-4C9C-A3C0-654D58DCA1C4}|Modelo\\Modelo.csproj|h:\\tecnologia\\git and github\\conexion github - proyects\\c#\\proyecto web asp.net - formulario\\proyectweb\\modelo\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3395FA40-0C93-4C9C-A3C0-654D58DCA1C4}|Modelo\\Modelo.csproj|solutionrelative:modelo\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D767CD3C-63C7-41CE-AE36-A3D79B29E995}|proyectWeb\\proyectWeb.csproj|H:\\Tecnologia\\GIT and GITHUB\\Conexion GITHUB - Proyects\\C#\\Proyecto Web ASP.net - Formulario\\proyectWeb\\proyectweb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D767CD3C-63C7-41CE-AE36-A3D79B29E995}|proyectWeb\\proyectWeb.csproj|solutionrelative:proyectweb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D767CD3C-63C7-41CE-AE36-A3D79B29E995}|proyectWeb\\proyectWeb.csproj|H:\\Tecnologia\\GIT and GITHUB\\Conexion GITHUB - Proyects\\C#\\Proyecto Web ASP.net - Formulario\\proyectWeb\\proyectweb\\empleados.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D767CD3C-63C7-41CE-AE36-A3D79B29E995}|proyectWeb\\proyectWeb.csproj|solutionrelative:proyectweb\\empleados.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D767CD3C-63C7-41CE-AE36-A3D79B29E995}|proyectWeb\\proyectWeb.csproj|H:\\Tecnologia\\GIT and GITHUB\\Conexion GITHUB - Proyects\\C#\\Proyecto Web ASP.net - Formulario\\proyectWeb\\proyectweb\\empleados.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D767CD3C-63C7-41CE-AE36-A3D79B29E995}|proyectWeb\\proyectWeb.csproj|solutionrelative:proyectweb\\empleados.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D767CD3C-63C7-41CE-AE36-A3D79B29E995}|proyectWeb\\proyectWeb.csproj|H:\\Tecnologia\\GIT and GITHUB\\Conexion GITHUB - Proyects\\C#\\Proyecto Web ASP.net - Formulario\\proyectWeb\\proyectweb\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{D767CD3C-63C7-41CE-AE36-A3D79B29E995}|proyectWeb\\proyectWeb.csproj|solutionrelative:proyectweb\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConexionBD.cs",
+              "DocumentMoniker": "H:\\Tecnologia\\GIT and GITHUB\\Conexion GITHUB - Proyects\\C#\\Proyecto Web ASP.net - Formulario\\proyectWeb\\Modelo\\ConexionBD.cs",
+              "RelativeDocumentMoniker": "Modelo\\ConexionBD.cs",
+              "ToolTip": "H:\\Tecnologia\\GIT and GITHUB\\Conexion GITHUB - Proyects\\C#\\Proyecto Web ASP.net - Formulario\\proyectWeb\\Modelo\\ConexionBD.cs",
+              "RelativeToolTip": "Modelo\\ConexionBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T22:22:45.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "H:\\Tecnologia\\GIT and GITHUB\\Conexion GITHUB - Proyects\\C#\\Proyecto Web ASP.net - Formulario\\proyectWeb\\proyectWeb\\Default.aspx",
+              "RelativeDocumentMoniker": "proyectWeb\\Default.aspx",
+              "ToolTip": "H:\\Tecnologia\\GIT and GITHUB\\Conexion GITHUB - Proyects\\C#\\Proyecto Web ASP.net - Formulario\\proyectWeb\\proyectWeb\\Default.aspx",
+              "RelativeToolTip": "proyectWeb\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-22T22:18:45.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empleados.aspx.cs",
+              "DocumentMoniker": "H:\\Tecnologia\\GIT and GITHUB\\Conexion GITHUB - Proyects\\C#\\Proyecto Web ASP.net - Formulario\\proyectWeb\\proyectWeb\\Empleados.aspx.cs",
+              "RelativeDocumentMoniker": "proyectWeb\\Empleados.aspx.cs",
+              "ToolTip": "H:\\Tecnologia\\GIT and GITHUB\\Conexion GITHUB - Proyects\\C#\\Proyecto Web ASP.net - Formulario\\proyectWeb\\proyectWeb\\Empleados.aspx.cs",
+              "RelativeToolTip": "proyectWeb\\Empleados.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T05:35:36.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Empleados.aspx",
+              "DocumentMoniker": "H:\\Tecnologia\\GIT and GITHUB\\Conexion GITHUB - Proyects\\C#\\Proyecto Web ASP.net - Formulario\\proyectWeb\\proyectWeb\\Empleados.aspx",
+              "RelativeDocumentMoniker": "proyectWeb\\Empleados.aspx",
+              "ToolTip": "H:\\Tecnologia\\GIT and GITHUB\\Conexion GITHUB - Proyects\\C#\\Proyecto Web ASP.net - Formulario\\proyectWeb\\proyectWeb\\Empleados.aspx",
+              "RelativeToolTip": "proyectWeb\\Empleados.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-01T22:18:11.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "H:\\Tecnologia\\GIT and GITHUB\\Conexion GITHUB - Proyects\\C#\\Proyecto Web ASP.net - Formulario\\proyectWeb\\Modelo\\Empleado.cs",
+              "RelativeDocumentMoniker": "Modelo\\Empleado.cs",
+              "ToolTip": "H:\\Tecnologia\\GIT and GITHUB\\Conexion GITHUB - Proyects\\C#\\Proyecto Web ASP.net - Formulario\\proyectWeb\\Modelo\\Empleado.cs",
+              "RelativeToolTip": "Modelo\\Empleado.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T22:53:15.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Site.Master",
+              "DocumentMoniker": "H:\\Tecnologia\\GIT and GITHUB\\Conexion GITHUB - Proyects\\C#\\Proyecto Web ASP.net - Formulario\\proyectWeb\\proyectWeb\\Site.Master",
+              "RelativeDocumentMoniker": "proyectWeb\\Site.Master",
+              "ToolTip": "H:\\Tecnologia\\GIT and GITHUB\\Conexion GITHUB - Proyects\\C#\\Proyecto Web ASP.net - Formulario\\proyectWeb\\proyectWeb\\Site.Master",
+              "RelativeToolTip": "proyectWeb\\Site.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-01T22:17:55.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

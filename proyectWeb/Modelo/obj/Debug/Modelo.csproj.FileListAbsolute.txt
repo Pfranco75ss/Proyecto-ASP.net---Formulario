@@ -1,0 +1,17 @@
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\Modelo\bin\Debug\Modelo.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\Modelo\bin\Debug\Modelo.pdb
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\Modelo\bin\Debug\MySql.Data.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\Modelo\bin\Debug\Google.Protobuf.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\Modelo\bin\Debug\ZstdNet.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\Modelo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\Modelo\bin\Debug\BouncyCastle.Crypto.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\Modelo\bin\Debug\Ubiety.Dns.Core.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\Modelo\bin\Debug\System.Buffers.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\Modelo\bin\Debug\K4os.Compression.LZ4.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\Modelo\bin\Debug\K4os.Hash.xxHash.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\Modelo\bin\Debug\MySql.Data.xml
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\Modelo\obj\Debug\Modelo.csproj.Up2Date
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\Modelo\obj\Debug\Modelo.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\Modelo\obj\Debug\Modelo.pdb

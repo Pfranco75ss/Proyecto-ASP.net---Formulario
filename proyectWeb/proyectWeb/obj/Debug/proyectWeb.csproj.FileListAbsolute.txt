@@ -1,0 +1,172 @@
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\proyectWeb.dll.config
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\proyectWeb.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\proyectWeb.pdb
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\csc.exe
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\csc.exe.config
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\csc.rsp
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\csi.exe
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\csi.exe.config
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\csi.rsp
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\System.AppContext.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\System.Collections.Immutable.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\System.Console.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\System.Globalization.Calendars.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\System.IO.Compression.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\System.IO.FileSystem.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\System.Net.Http.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\System.Net.Sockets.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\System.Reflection.Metadata.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\System.ValueTuple.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\System.Xml.XPath.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\vbc.exe
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\vbc.exe.config
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\vbc.rsp
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\VBCSCompiler.exe
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\roslyn\VBCSCompiler.exe.config
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\Antlr3.Runtime.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\Microsoft.ScriptManager.WebForms.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\Microsoft.Web.Infrastructure.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\Newtonsoft.Json.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\System.Web.Optimization.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\WebGrease.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\System.Web.Optimization.xml
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\Newtonsoft.Json.xml
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\Antlr3.Runtime.pdb
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\es\System.Web.Optimization.resources.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\obj\Debug\proyectWeb.csproj.AssemblyReference.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\obj\Debug\proyectWeb.csproj.CoreCompileInputs.cache
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\obj\Debug\proyectWeb.csproj.Up2Date
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\obj\Debug\proyectWeb.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\obj\Debug\proyectWeb.pdb
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\Modelo.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\MySql.Data.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\Google.Protobuf.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\ZstdNet.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\K4os.Compression.LZ4.Streams.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\BouncyCastle.Crypto.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\Ubiety.Dns.Core.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\System.Buffers.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\K4os.Compression.LZ4.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\K4os.Hash.xxHash.dll
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\Modelo.pdb
+H:\Tecnologia\Ejercicios de programación\Practicas de programación\C#\proyectWeb\proyectWeb\bin\MySql.Data.xml
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\proyectWeb.dll.config
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\proyectWeb.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\proyectWeb.pdb
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\csc.exe
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\csc.exe.config
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\csc.rsp
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\csi.exe
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\csi.exe.config
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\csi.rsp
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\System.AppContext.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\System.Collections.Immutable.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\System.Console.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\System.Globalization.Calendars.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\System.IO.Compression.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\System.IO.FileSystem.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\System.Net.Http.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\System.Net.Sockets.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\System.Reflection.Metadata.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\System.ValueTuple.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\System.Xml.XPath.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\vbc.exe
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\vbc.exe.config
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\vbc.rsp
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\VBCSCompiler.exe
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\roslyn\VBCSCompiler.exe.config
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\Antlr3.Runtime.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\Microsoft.ScriptManager.WebForms.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\Microsoft.Web.Infrastructure.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\Modelo.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\Newtonsoft.Json.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\System.Web.Optimization.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\WebGrease.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\MySql.Data.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\Google.Protobuf.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\ZstdNet.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\K4os.Compression.LZ4.Streams.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\BouncyCastle.Crypto.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\Ubiety.Dns.Core.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\System.Buffers.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\K4os.Compression.LZ4.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\K4os.Hash.xxHash.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\Modelo.pdb
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\System.Web.Optimization.xml
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\Newtonsoft.Json.xml
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\Antlr3.Runtime.pdb
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\MySql.Data.xml
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\es\System.Web.Optimization.resources.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\obj\Debug\proyectWeb.csproj.AssemblyReference.cache
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\obj\Debug\proyectWeb.csproj.CoreCompileInputs.cache
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\obj\Debug\proyectWeb.csproj.Up2Date
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\obj\Debug\proyectWeb.dll
+H:\Tecnologia\GIT and GITHUB\Conexion GITHUB - Proyects\C#\Proyecto Web ASP.net - Formulario\proyectWeb\proyectWeb\obj\Debug\proyectWeb.pdb
